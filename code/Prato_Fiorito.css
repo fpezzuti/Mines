@@ -1,0 +1,145 @@
+
+body{
+	background: #E6E6FA;
+}
+
+#Playground{
+	margin: auto;
+	width:540px;
+	height:540px;
+	border: solid;
+	border-width: 2px;
+
+}
+
+#Emoticon{
+	margin: auto;
+	width: 540px;
+}
+
+#Emoticon img{
+	margin-left: 230px;
+	margin-right:230px;
+	width: 80px;
+	cursor: pointer;
+}
+
+#GameInformations{
+	margin:auto;
+	width: 540px;
+}
+
+.label{
+	font-weight: bold;
+	font-size: 20px;
+	display: inline;
+}
+
+.label span{
+	font-weight: normal;
+}
+
+.cella, .mina, .flag, .mostrato, .type1, .type2, .type3, .type4, .type5, .type6, .type7, .type0{
+	width:58px;
+	height: 58px;
+	background-color: #C5C5C5;
+	margin: 0;
+	float: left;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	cursor: pointer;
+}
+
+.mina{
+	background-image: url('./Mine.png');
+	background-size: cover;
+}
+
+.flag{
+	background-image: url('./Flag.ico');
+	background-size: cover;
+	background-color:#B4B4B4;
+}
+
+#pop_up{
+	background-color: #90ada3;
+	width: 350px;
+	height: 150px;
+	border:solid;
+	border-color: #6f877f;
+	margin: auto;
+	z-index: 100;
+	font-size: 30px;
+	text-align: center;
+}
+
+.close_button{
+	position: relative;
+	left:330px;
+	width: 20px;
+	height: 20px;
+	background-image: url('./button.png');
+	background-size: cover;
+	cursor: pointer;
+	z-index: 102;
+}
+
+
+
+
+.type1{
+	background-image: url('./Numeri/1.png');
+	background-size: cover;
+
+}
+
+.type2{
+	background-image: url('./Numeri/2.png');
+	background-size: cover;
+}
+
+.type3{
+	background-image: url('./Numeri/3.png');
+	background-size: cover;}
+
+.type4{
+	background-image: url('./Numeri/4.png');
+	background-size: cover;
+
+}
+
+.type5{
+	background-image: url('./Numeri/5.png');
+	background-size: cover;
+}
+
+.type6{
+	background-image: url('./Numeri/6.png');
+	background-size: cover;}
+
+.type7{
+	background-image: url('./Numeri/7.png');
+	background-size: cover;
+}
+
+.type8{
+	background-image: url('./Numeri/8.png');
+	background-size: cover;
+}
+
+.type0{
+	background-color:#B4B4B4;
+	box-shadow: inset 3px 3px 4px grey;
+}
+
+.mina{
+	background-color:#bf5c5c;
+	/*border-color: red;*/
+}
+
+.cella, .flag{
+	box-shadow: inset 3px 3px 4px white;
+}
+
+
