@@ -52,12 +52,12 @@ body{
 }
 
 .mina{
-	background-image: url('./Mine.png');
+	background-image: url('../Immagini/Mine.png');
 	background-size: cover;
 }
 
 .flag{
-	background-image: url('./Flag.ico');
+	background-image: url('../Immagini/Flag.ico');
 	background-size: cover;
 	background-color:#B4B4B4;
 }
@@ -79,7 +79,7 @@ body{
 	left:330px;
 	width: 20px;
 	height: 20px;
-	background-image: url('./button.png');
+	background-image: url('../Immagini/button.png');
 	background-size: cover;
 	cursor: pointer;
 	z-index: 102;
@@ -89,42 +89,42 @@ body{
 
 
 .type1{
-	background-image: url('./Numeri/1.png');
+	background-image: url('../Immagini/Numeri/1.png');
 	background-size: cover;
 
 }
 
 .type2{
-	background-image: url('./Numeri/2.png');
+	background-image: url('../Immagini/Numeri/2.png');
 	background-size: cover;
 }
 
 .type3{
-	background-image: url('./Numeri/3.png');
+	background-image: url('../Immagini/Numeri/3.png');
 	background-size: cover;}
 
 .type4{
-	background-image: url('./Numeri/4.png');
+	background-image: url('../Immagini/Numeri/4.png');
 	background-size: cover;
 
 }
 
 .type5{
-	background-image: url('./Numeri/5.png');
+	background-image: url('../Numeri/5.png');
 	background-size: cover;
 }
 
 .type6{
-	background-image: url('./Numeri/6.png');
+	background-image: url('../Numeri/6.png');
 	background-size: cover;}
 
 .type7{
-	background-image: url('./Numeri/7.png');
+	background-image: url('../Numeri/7.png');
 	background-size: cover;
 }
 
 .type8{
-	background-image: url('./Numeri/8.png');
+	background-image: url('../Numeri/8.png');
 	background-size: cover;
 }
 
