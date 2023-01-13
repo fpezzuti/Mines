@@ -1,2 +1,3 @@
-# Mines
-Mines it is a javascript and html project consisting of the developing of the popular game minesweeper.
+# Minesweeper :bomb:
+*Mines* is a Javascript and HTML simple version of the popular game Minesweeper.
+
